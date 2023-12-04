@@ -3,6 +3,5 @@ Welcome to the repository of amazing web development projects showcasing the pow
 
 # Project List
 1. Parallax Website
-
-Live Link: 
+   Live Link: 
 
