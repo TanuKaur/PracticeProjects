@@ -5,4 +5,4 @@ Welcome to the repository of amazing web development projects showcasing the pow
 1. Parallax Website
 
 Live Link: 
-Description: A visually stunning website featuring parallax scrolling effects to create a dynamic and immersive user experience.
+
