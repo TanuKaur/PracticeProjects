@@ -6,3 +6,7 @@ Welcome to the repository of amazing web development projects showcasing the pow
 
    Live Link: https://parallaxeffectweb.netlify.app/
 
+2. Image Gallery Project
+
+   Live Link: https://imagegallerywebproject.netlify.app/
+
