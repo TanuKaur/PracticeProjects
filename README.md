@@ -10,3 +10,7 @@ Welcome to the repository of amazing web development projects showcasing the pow
 
    Live Link: https://imagegallerywebproject.netlify.app/
 
+3. Modern Chair Project
+
+   Live Link: https://modern-chair-web.netlify.app/
+
